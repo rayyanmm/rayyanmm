@@ -14,6 +14,7 @@
 ![Trello](https://ziadoua.github.io/m3-Markdown-Badges/badges/Trello/trello3.svg)
 ![Windows](https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows11/windows113.svg)
 ![linux](https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux3.svg)
+![Android](https://ziadoua.github.io/m3-Markdown-Badges/badges/Android/android3.svg)
 ![Androidstudio](https://ziadoua.github.io/m3-Markdown-Badges/badges/AndroidStudio/androidstudio3.svg)
 ![Audacity](https://ziadoua.github.io/m3-Markdown-Badges/badges/Audacity/audacity3.svg)
 ![davinci](https://ziadoua.github.io/m3-Markdown-Badges/badges/DaVinciResolve/davinciresolve3.svg)
@@ -21,11 +22,13 @@
 ![illustrator](https://ziadoua.github.io/m3-Markdown-Badges/badges/Illustrator/illustrator3.svg)
 ![instagram](https://ziadoua.github.io/m3-Markdown-Badges/badges/Instagram/instagram3.svg)
 
-- Graphic design
+Here's some of what I can do:
+- Make Websites
+- Graphic Design
+- Digital Illustration
 - Video editing
-- Audio editing and Enhancement
+- Audio editing and Enhancement 
 - Color grading
-- Android apps
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Speech%20Balloon.png" alt="Speech Balloon" width="25" height="25" /> Socials
 <p>
@@ -39,7 +42,7 @@
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram2.svg" alt="Telegram">
   </a>
    <a href="mailto:rayyanbc@keemail.me">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Gmail/gmail3.svg" alt="Gmail">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Mail/mail3.svg" alt="mail">
   </a>
   <a href="mailto:rayyanbc@keemail.me">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Instagram/instagram3.svg" alt="Instagram">
