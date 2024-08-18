@@ -22,7 +22,7 @@
 ![illustrator](https://ziadoua.github.io/m3-Markdown-Badges/badges/Illustrator/illustrator3.svg)
 ![instagram](https://ziadoua.github.io/m3-Markdown-Badges/badges/Instagram/instagram3.svg)
 
-Here's some of what I can do:
+Here's some of the things I can do:
 - Make Websites
 - Graphic Design
 - Digital Illustration
