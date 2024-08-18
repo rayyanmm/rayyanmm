@@ -21,6 +21,12 @@
 ![illustrator](https://ziadoua.github.io/m3-Markdown-Badges/badges/Illustrator/illustrator3.svg)
 ![instagram](https://ziadoua.github.io/m3-Markdown-Badges/badges/Instagram/instagram3.svg)
 
+- Graphic design
+- Video editing
+- Audio editing and Enhancement
+- Color grading
+- Android apps
+
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Speech%20Balloon.png" alt="Speech Balloon" width="25" height="25" /> Socials
 <p>
   <a href="https://github.com/rayyanmm">
