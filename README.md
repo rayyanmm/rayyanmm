@@ -32,7 +32,7 @@ Here's some of the things I can do:
 ![instagram](https://ziadoua.github.io/m3-Markdown-Badges/badges/Instagram/instagram3.svg)
 
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Speech%20Balloon.png" alt="Speech Balloon" width="25" height="25" /> Contact me / Socials
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Speech%20Balloon.png" alt="Speech Balloon" width="25" height="25" /> Contact me! Socials
 <p>
   <a href="https://github.com/rayyanmm">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg" alt="GitHub">
