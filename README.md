@@ -3,7 +3,7 @@
 **rayyanmm/rayyanmm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist" width="25" height="25" /> Skills
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist" width="25" height="25" /> Skills
 
 Here's some of the things I can do:
 - Make Websites
@@ -51,12 +51,11 @@ Here's some of the things I can do:
   </a>
 </p>
 
-### Projects 
-<img src="https://github.com/user-attachments/assets/2b6a19a3-6b8a-4661-8fd1-4b0a255cc265" width=100>
-![IMG_2105](https://github.com/user-attachments/assets/07b7bc23-c259-4e09-afb7-a94b7942c62d)
-![IMG_2106](https://github.com/user-attachments/assets/30a23377-7e9f-48b8-ac23-7d472f754d8f)
-![30b632a1-a83d-44ee-a010-f0993a5034c8__og](https://github.com/user-attachments/assets/c32fac79-d581-4df9-a29e-83345b832d71)
-![qtrpasteltemplatedarkerinvert](https://github.com/user-attachments/assets/bc667e42-d138-46d9-bda3-8c14fd13d488)
+## Projects 
+<img src="https://github.com/user-attachments/assets/2b6a19a3-6b8a-4661-8fd1-4b0a255cc265" width=400>
+<img src="https://github.com/user-attachments/assets/07b7bc23-c259-4e09-afb7-a94b7942c62d" width=400>
+<img src="https://github.com/user-attachments/assets/30a23377-7e9f-48b8-ac23-7d472f754d8f" width=400>
+<img src="https://github.com/user-attachments/assets/c32fac79-d581-4df9-a29e-83345b832d71" width=400>
 
 
 
