@@ -52,11 +52,11 @@ Here's some of the things I can do:
 </p>
 
 ## Projects 
-<img src="https://github.com/user-attachments/assets/2b6a19a3-6b8a-4661-8fd1-4b0a255cc265" width=400>
-<img src="https://github.com/user-attachments/assets/07b7bc23-c259-4e09-afb7-a94b7942c62d" width=400>
+<img src="https://github.com/user-attachments/assets/2b6a19a3-6b8a-4661-8fd1-4b0a255cc265" height=400 width=400>
+<img src="https://github.com/user-attachments/assets/07b7bc23-c259-4e09-afb7-a94b7942c62d" height=400 width=400>
 <img src="https://github.com/user-attachments/assets/30a23377-7e9f-48b8-ac23-7d472f754d8f" width=400>
 <img src="https://github.com/user-attachments/assets/c32fac79-d581-4df9-a29e-83345b832d71" width=400>
-
+<img src="https://img.youtube.com/vi/ZwWBgtMBTlc/maxresdefault.jpg" width=400>
 
 
 
