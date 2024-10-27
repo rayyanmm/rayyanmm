@@ -61,8 +61,8 @@ Here's some of the things I can do:
 <img src="https://github.com/user-attachments/assets/c32fac79-d581-4df9-a29e-83345b832d71" width=400 />
 <br>
 <img src="https://img.youtube.com/vi/ZwWBgtMBTlc/maxresdefault.jpg" width=400 />
-![qatar_airways_1](https://github.com/user-attachments/assets/80bfef1e-bc9c-4ee2-8b9d-0b2ba011e0a8)
-![qatar_airways_1_alt](https://github.com/user-attachments/assets/c7ae7371-736a-4280-aa46-bb26048bc1ac)
+<img scr="https://github.com/user-attachments/assets/80bfef1e-bc9c-4ee2-8b9d-0b2ba011e0a8"/>
+<img src="https://github.com/user-attachments/assets/c7ae7371-736a-4280-aa46-bb26048bc1ac"/>
 
 
 
