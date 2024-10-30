@@ -26,7 +26,6 @@ Here's some of the things I can do:
 
 #### Platforms & Apps
 ![Trello](https://ziadoua.github.io/m3-Markdown-Badges/badges/Trello/trello3.svg)
-![Windows](https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows11/windows113.svg)
 ![Windows10](https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows10/windows103.svg)
 ![Windows11](https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows11/windows113.svg)
 ![Ubuntu](https://ziadoua.github.io/m3-Markdown-Badges/badges/Ubuntu/ubuntu3.svg)
