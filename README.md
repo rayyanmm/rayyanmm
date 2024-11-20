@@ -3,7 +3,7 @@
 **rayyanmm/rayyanmm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist" width="25" height="25" /> Skills
+### Skills
 
 Here's some of the things I can do:
 - Make Websites
@@ -41,12 +41,8 @@ Here's some of the things I can do:
 ![Github](https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github3.svg)
 ![Vercel](https://ziadoua.github.io/m3-Markdown-Badges/badges/Vercel/vercel3.svg)
 
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Speech%20Balloon.png" alt="Speech Balloon" width="25" height="25" /> Contact me! Socials
-<p>
-  <a href="https://github.com/rayyanmm">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg" alt="GitHub">
-  </a>
+<h3 align="center"> Contact me :) </h3>
+<p align="center">
   <a href="https://discord.com/users/628600195806003211">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord2.svg" alt="Discord">
   </a>
@@ -56,9 +52,9 @@ Here's some of the things I can do:
    <a href="mailto:rayyanbc@keemail.me">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Mail/mail3.svg" alt="mail">
   </a>
-  <a href="mailto:rayyanbc@keemail.me">
+  <a href="rayyanmanzary@protonmail.com">
   <!--  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Instagram/instagram3.svg" alt="Instagram">
   </a> -->
 </p>
 
-<h1>Bye!</h1>
+<h3 align="center">Bye!</h3>
