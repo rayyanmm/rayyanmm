@@ -41,7 +41,7 @@ Here's some of the things I can do:
 ![Github](https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github3.svg)
 ![Vercel](https://ziadoua.github.io/m3-Markdown-Badges/badges/Vercel/vercel3.svg)
 
-<h3 align="center"> Contact me :) </h3>
+<h3 align="center"> Contact me! </h3>
 <p align="center">
   <a href="https://discord.com/users/628600195806003211">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord2.svg" alt="Discord">
@@ -57,4 +57,4 @@ Here's some of the things I can do:
   </a> -->
 </p>
 
-<h3 align="center">Bye!</h3>
+<h3 align="center">Bye</h3>
