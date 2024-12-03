@@ -43,9 +43,6 @@ Here's some of the things I can do:
 
 <h3 align="center"> Contact me! </h3>
 <p align="center">
-  <a href="https://discord.com/users/628600195806003211">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord2.svg" alt="Discord">
-  </a>
   <a href="https://t.me/rayyanmmm">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram2.svg" alt="Telegram">
   </a>
